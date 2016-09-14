@@ -1,3 +1,30 @@
+<style>
+@import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
+</style>
+p {
+  font-family: Baloo+Tamma sans-serif;;
+}
 h1 {
 text-align: center;
+}
+h2 {
+color: purple;
+}
+h1 {
+  background-color: yellow;
+}
+h1 {
+  color: purple;
+}
+p {
+  color: black;
+  }
+p {
+  background-color: black;
+}
+p {
+color: yellow;
+}
+h2 {
+  text-align: center;
 }
